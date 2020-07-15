@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CS6004_Application_Development_11063786.Form1">
+    <Position X="4.75" Y="1.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>7zAARVgBySABgJI5BICAAYATYbkwjEhD1CSAQSAaQHQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS6004_Application_Development_11063786.GroupClass" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CS6004_Application_Development_11063786.GroupClass.IDGROUPHELPER" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GroupClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAAAAAAQAAAQAAAAgAEAAAAAAACCAAAAAgAA=</HashCode>
+      <FileName>GroupClass.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CS6004_Application_Development_11063786.Program" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS6004_Application_Development_11063786.Student" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CS6004_Application_Development_11063786.Student.StudentSortHelper" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Student.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAACBwgAQgAAAAAAAgBAgAAAAIAAAACCECAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

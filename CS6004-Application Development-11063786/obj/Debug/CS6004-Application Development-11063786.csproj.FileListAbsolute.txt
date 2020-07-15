@@ -1,0 +1,10 @@
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\bin\Debug\CS6004-Application Development-11063786.exe.config
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\bin\Debug\CS6004-Application Development-11063786.exe
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\bin\Debug\CS6004-Application Development-11063786.pdb
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004-Application Development-11063786.csprojAssemblyReference.cache
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004_Application_Development_11063786.Form1.resources
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004_Application_Development_11063786.Properties.Resources.resources
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004-Application Development-11063786.csproj.GenerateResource.cache
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004-Application Development-11063786.exe
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004-Application Development-11063786.pdb
+C:\Users\Abdirizak J Ismail\Desktop\University\3rd Year\Application Development\Courseworks\CW1\CS6004-Application Development-11063786\obj\Debug\CS6004-Application Development-11063786.csproj.CoreCompileInputs.cache
