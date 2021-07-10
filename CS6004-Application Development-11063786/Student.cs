@@ -11,7 +11,7 @@ namespace CS6004_Application_Development_11063786
 {   [Serializable]
     public class Student : ISerializable, IComparable
     {
-
+        public string random;
         public int studentId;
         private string firstName = "";
         private string surName = "";
